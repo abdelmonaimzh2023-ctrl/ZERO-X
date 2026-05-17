@@ -1,0 +1,8 @@
+*.o
+*.out
+zp
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+~/.zero-space/
