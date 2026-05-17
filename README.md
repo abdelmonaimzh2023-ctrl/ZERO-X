@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ZERO-SPACE
 
 > 12-Layer Hyper Compression Engine
@@ -33,3 +34,6 @@ zp
 | zp --version | Show version |
 | zp --update | Check for updates |
 | zp --help | Show help |
+=======
+# ZERO-X
+>>>>>>> 1b5cd0675df9e5c6ed13cf2da16acfd9af102edd
